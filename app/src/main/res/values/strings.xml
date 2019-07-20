@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RetrofitandRxAndroid</string>
+    <string name="purchase_with_naqd">Purchase with NAQD</string>
+    <string name="ramesh_kumar_sharma">Ramesh Kumar Sharma</string>
+    <string name="make_a_purchase">Make a Purchase</string>
+    <string name="_4829810">#4829810</string>
+    <string name="authorization">Authorization</string>
+    <string name="purchase_advice">Purchase Advice</string>
+    <string name="refund">Refund</string>
+    <string name="merchant">Merchant</string>
+    <string name="admin">Admin</string>
+    <string name="reversal">Reversal</string>
+    <string name="cash_advance">Cash Advance</string>
+</resources>
